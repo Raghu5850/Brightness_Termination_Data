@@ -21,12 +21,12 @@ data-processing workflow.
 ## Files Included
 
 ### Input
-`Brightness_Termination_Input.xlsx`
+`Brightness_Termination_Input_Data.xlsx`
 
 Contains the original input data used for the analysis.
 
 ### Output
-`Brightness_Termination_Output.xlsx`
+`Brightness_Termination_Output_Data.xlsx`
 
 Contains the processed and final output data.
 

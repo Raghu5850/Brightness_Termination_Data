@@ -36,7 +36,6 @@ Contains the processed and final output data.
 - Excel formulas
 - Data Cleaning
 - Data Validation
-- Pivot Tables
 - Data Analysis
 
 ## Project Workflow
